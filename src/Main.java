@@ -1,7 +1,14 @@
 public class Main {
 
     public static void main(String[] args) {
-
-        System.out.print("I like pizza");
+        // I am a Comment
+        /*
+            I am 
+            bigger 
+            comment
+        */
+        System.out.println("I like Naan!");
+        System.out.println("It's really good!");
+        System.out.println("Buy me pizza!");
     }
 }
